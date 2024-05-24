@@ -35,8 +35,8 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        mah dear kundanapu bomma🖤,<br />
-        never have i been so blessed as to fall in love with someone as wonderful as you...<br />i loveeee youuuu :)<br />
+        My Dear heart beat alias Gayathri🖤,<br />
+        Ninnu chusina aa kshanam nunchi ninnu chuse kshanam kosam, Entha gaanoo kshanaalu count chesthuu...... Eduruchuse oh swacchamaina vyakthi ni nenu.<br /> nee kanti chupullo naa prathibimbam kanipinchadaanikaina, nee gonthu swaram lo naa peru palakadaanikaina, nee ears lo naa peru vinipinchadaanikaina, nee voohallo naa alochanalu raavadaanikaina, enno janmala punyam chesthe kaani raadhu aa adhrustam ani baavinche oh saadhaarana vyakthi ni nenu.<br />
         always yours,<br />
         @niihaaarrrr
       </div>
