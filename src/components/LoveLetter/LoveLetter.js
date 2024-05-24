@@ -36,9 +36,9 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         My Dear heart beat alias Gayathri🖤,<br />
-        Ninnu chusina aa kshanam nunchi ninnu chuse kshanam kosam, Entha gaanoo kshanaalu count chesthuu...... Eduruchuse oh swacchamaina vyakthi ni nenu.<br /> nee kanti chupullo naa prathibimbam kanipinchadaanikaina, nee gonthu swaram lo naa peru palakadaanikaina, nee ears lo naa peru vinipinchadaanikaina, nee voohallo naa alochanalu raavadaanikaina, enno janmala punyam chesthe kaani raadhu aa adhrustam ani baavinche oh saadhaarana vyakthi ni nenu.<br />
+        Ninnu chusina aa kshanam nunchi ninnu chuse kshanam kosam, Entha gaanoo kshanaalu count chesthuu...... Eduruchuse oh swacchamaina vyakthi ni nenu.<br /> nee kanti chupullo naa prathibimbam kanipinchadaanikaina, nee gonthu swaram lo naa peru palakadaanikaina, nee ears lo naa peru vinipinchadaanikaina, nee voohallo naa alochanalu raavadaanikaina, enno janmala punyam chesthe kaani raadhu aa adhrustam ani baavinche oh saadhaarana vyakthi ni nenu.<br /><br /> Alaantidhi nee cheyyi chitikina velu pattukovadaanikai, nee cheyyi goru mudda thinadaanikai, raanunna kaalamlo nee kallallo sagamai ee prapamchaanni chudataanikai, naa yokka migatha jeevithanni ee kalalu neravercheki krushi cheseyyali ani baavinche voo kasta jeevi ni.<br /><br /> eeshwarudu thana premani cheppadaaniki thanaloki saga baaganni parvathiki icchaadu kaani nenu naaku saadhyam ayyela naa prathi kshanam lo saga baaganni nee kalala saakaram kosam unchaanu <br /><br /> Neeku eppatiki kastam raanivva kunda nee sukha dhukkallonu baagam panchukuntuu, thaamara puvvu laaga ninnu water paina vikasinchela chesi nenu kaandam la buradhalo untaanani maatisthuu.......<br />
         always yours,<br />
-        @niihaaarrrr
+        @Nee jeevitha bagaswamyam kaavalani korukune vyakthi ni.
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
